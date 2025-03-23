@@ -15,6 +15,7 @@ Features include:
 ## Requirements
 
 - RLInventoryOpt == 0.1.6
+= Link to the library [LINK](https://github.com/sebassaras02/rf_inventory_optimization)
 
 ## Installation
 
