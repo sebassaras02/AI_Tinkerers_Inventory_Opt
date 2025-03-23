@@ -1,10 +1,10 @@
 # AI Tinkerers Inventory Optimization
 
-This repository contains a demonstration of the **QLearningOptimizer** library, which utilizes Q-Learning algorithms for inventory optimization. The demo was showcased at the **AI Tinkerers** event in Quito on April 24th - 2025.
+This repository contains a demonstration of the **RLInventoryOpt** library, which utilizes reinforcement learning for inventory optimization. The demo was showcased at the **AI Tinkerers** event in Quito on April 24th - 2025.
 
 ## Description
 
-The **QLearningOptimizer** library optimizes inventory levels based on forecasted demand using reinforcement learning techniques. The implementation uses the library RLInventoryOpt to learn the best restocking strategy, considering parameters such as initial stock, safety stock, maximum capacity, and lead time.
+The **RLInventoryOpt** library optimizes inventory levels based on forecasted demand using reinforcement learning techniques. The implementation learns the best restocking strategy, considering parameters such as initial stock, safety stock, maximum capacity, and lead time.
 
 Features include:
 - **Dynamic actions:** Define actions in the format `"Xm"` (e.g., `"10m"`, `"100m"`) to order different quantities.
